@@ -1,0 +1,2 @@
+this is new git file in project directory.
+git is included in this directory.
